@@ -1,1 +1,1 @@
-# CNN-from-scracth
+# CNN
